@@ -2,7 +2,7 @@
 
 return [
 
-    'dashboardTitle' => 'لي لي - لوحة التحكم',
+    'dashboardTitle' => 'لوحة التحكم',
     'login' => 'تسجيل دخول',
     'management' => 'الإدارة',
     'email' => 'البريد الإلكتروني',

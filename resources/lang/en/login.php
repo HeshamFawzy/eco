@@ -2,7 +2,7 @@
 
 return [
 
-    'dashboardTitle' => 'Lily - Dashboard',
+    'dashboardTitle' => 'Dashboard',
     'login' => 'Login',
     'management' => 'Management',
     'email' => 'Email',

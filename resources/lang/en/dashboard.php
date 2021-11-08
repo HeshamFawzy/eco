@@ -2,8 +2,8 @@
 
 return [
 
-    'dashboardTitle' => 'Lily Organics - Dashboard',
-    'lily' => 'Lily Organics',
+    'dashboardTitle' => 'Dashboard',
+    'eco' => 'ecommerce',
     'profile' => 'Profile',
     'logout' => 'Logout',
     'home' => 'Home',
